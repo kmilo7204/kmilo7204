@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Camilo!!!
 ![](https://user-images.githubusercontent.com/49252525/90343840-e28cd880-dfd9-11ea-93f2-feaa36020ca6.png)
 
-<img src='https://user-images.githubusercontent.com/49252525/90343951-fd138180-dfda-11ea-9ae5-137a4186961d.jpg' height='70'>
+## Skills
+<img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg' height='45'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg' height='40'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg' height='40'>
 
-## Skills: 
-C++ / Python / ROS / ROS 2 / Docker
+
 
 ## Adds
 
