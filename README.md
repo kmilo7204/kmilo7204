@@ -18,5 +18,6 @@
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 ## My Stats
-![Camilos's github stats](https://github-readme-stats.vercel.app/api?username=kmilo7204&show_icons=true&theme=react&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmilo7204&layout=compact&theme=react)](https://github.com/kmilo7204/github-readme-stats)
+![Camilos's github stats](https://github-readme-stats.vercel.app/api?username=kmilo7204&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+
+[![Camilos's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kmilo7204&theme=react)](https://github.com/kmilo7204/github-readme-stats)
